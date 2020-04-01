@@ -3,9 +3,9 @@ title: Tengfei Ma
 description: "A minimal, responsive, ready to use blog template, built with Jekyll."
 url: "https://xiaomingaaa.github.io/"
 author:
-  name: "The Review Index"
-  email: "dyutibarma@gmail.com"
-  url: "https://thereviewindex.com"
+  name: "Ma Tengfei"
+  email: "tfma@hnu.edu.cn"
+  url: "https://xiaomingaaa.github.io/"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
