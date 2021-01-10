@@ -3,8 +3,10 @@ layout: page
 title: About Me
 description: This page describes monochrome.
 ---
-## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
+## About Me
+- 21/12/2020 -- present: Applied scientist intern in Amazon AI Lab Shanghai. And I work for drug discovery using GNN model based on knowledge graph.
+- 01/09/2019 -- present: M.S. Computer Science in Hunan University
+- 01/09/2015 -- 01/07/2019: B.S. Computer Science in Zhengzhou University
 
 ## Features
 
