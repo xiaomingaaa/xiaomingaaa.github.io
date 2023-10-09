@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-KG-MTL: Knowledge graph enhanced multi-task learning for molecular interaction<br/> **Tengfei Ma**, Xuan Lin, Bosheng Song, S Yu Philip, Xiangxiang Zeng <br/> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 [[Code]](https://github.com/xzenglab/KG-MTL) [[URL]](https://ieeexplore.ieee.org/abstract/document/9815157/)
+KG-MTL: Knowledge graph enhanced multi-task learning for molecular interaction<br/> **Tengfei Ma**, Xuan Lin, Bosheng Song, S Yu Philip, Xiangxiang Zeng <br/> IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022 <br/> [[Code]](https://github.com/xzenglab/KG-MTL) [[URL]](https://ieeexplore.ieee.org/abstract/document/9815157/)
 
 MUFFIN: multi-scale feature fusion for drug–drug interaction prediction<br/> Yujie Chen, **Tengfei Ma**, Xixi Yang, Jianmin Wang, Bosheng Song, Xiangxiang Zeng <br/> Bioinformatics, 2021 <br/> [[code]](https://github.com/xzenglab/MUFFIN) [[URL]](https://academic.oup.com/bioinformatics/article/37/17/2651/6171181)
 
