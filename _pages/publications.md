@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-StratMed: Relevance Stratification for Low-resource Medication Recommendation<br/> Xiang Li, Shunpan Liang, Yulei Hou, **Tengfei Ma\*** <br/> *Knowledge-Based Systems (KBS)*, 2023, SCI-1 Top <br/> [[Code]](https://github.com/lixiang-222/StratMed) [[URL]](https://arxiv.org/pdf/2308.16781.pdf)
+StratMed: Relevance Stratification for Low-resource Medication Recommendation<br/> Xiang Li, Shunpan Liang, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *Knowledge-Based Systems (KBS)*, 2023, SCI-1 Top <br/> [[Code]](https://github.com/lixiang-222/StratMed) [[URL]](https://arxiv.org/pdf/2308.16781.pdf)
 
 KG-MTL: Knowledge graph enhanced multi-task learning for molecular interaction<br/> **Tengfei Ma**, Xuan Lin, Bosheng Song, S Yu Philip, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2022, CCF A <br/> [[Code]](https://github.com/xzenglab/KG-MTL) [[URL]](https://xiaomingaaa.github.io/files/KG-MTL.pdf)
 
