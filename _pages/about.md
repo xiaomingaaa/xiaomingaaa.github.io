@@ -15,16 +15,18 @@ I am a first-year PhD student in Department of Computer Science, Hunan Universit
 My research interests mainly focus on Knowledge Graph and its application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
-* [07/2022] One paper was accepted by IEEE TKDE!
+* [11/2023] One paper about medicine recommendation was accepted by *Knowledge-Based Systems (KBS)*!
+
+* [07/2022] One paper about drug screening was accepted by *IEEE TKDE*!
 
 * [06/2022] I worked as a full-time engineer for sponsored recommandation in Alibaba!
 
-* [09/2021] One paper was published on Bioinformatics!
+* [09/2021] One paper was published on *Bioinformatics*!
 
 * [06/2021] I started working as AI Engineer in Huawei Cloud
 
 * [12/2020] I started working as a research intern in Amazon Shanghai AI Lab.
 
-* [07/2020] One paper was accepted by Journal of Proteome Research!
+* [07/2020] One paper was accepted by *Journal of Proteome Research*!
 
-* [04/2020] One paper was accepted by IJCAI 2020!
+* [04/2020] One paper was accepted by *IJCAI* 2020!
