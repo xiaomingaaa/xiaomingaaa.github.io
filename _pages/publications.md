@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## Preprint
-<font color=blue>Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph</font><br/> **Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *Preprint*, 2023 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2312.06682)
+<font color=blue>Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph</font>
+**Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *Preprint*, 2023 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2312.06682)
 
 Dual-Granularity Medication Recommendation Based on Causal Inference<br/>
 Shunpan Liang, Xiang Li, Chen Li, Yu Lei, Yulei Hou, **Tengfei Ma**<br/> 
