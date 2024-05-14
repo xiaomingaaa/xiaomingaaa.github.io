@@ -18,6 +18,9 @@ $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomed
 
 
 ## Published
+$\text{TO-UGDA: target-oriented unsupervised graph domain adaptation}$
+<br/> Zhuo Zeng, Jianyu Xie, Zhijie Yang, **Tengfei Ma**, Duanbing Chen <br/> *Scientific Reports*, 2024, SCI-2 <br/> [[URL]](https://www.nature.com/articles/s41598-024-59890-y)
+
 $\text{StratMed: Relevance Stratification for Low-resource Medication Recommendation}$
 <br/> Xiang Li, Shunpan Liang, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *Knowledge-Based Systems (KBS)*, 2023, SCI-1 Top <br/> [[Code]](https://github.com/lixiang-222/StratMed) [[URL]](https://arxiv.org/pdf/2308.16781.pdf)
 

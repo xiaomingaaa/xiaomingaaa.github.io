@@ -15,7 +15,9 @@ I am a first-year PhD student in Department of Computer Science, Hunan Universit
 My research interests mainly focus on Knowledge Graph and its application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
-* [11/2023] One paper about medicine recommendation was accepted by *Knowledge-Based Systems (KBS)*!
+* [04/2024] One paper about graph domain adaptation was accepted by *Scientific Reports*! Congratulations to Zhuo Zeng.
+
+* [11/2023] One paper about medicine recommendation was accepted by *Knowledge-Based Systems (KBS)*! Congratulations to Xiang Li.
 
 * [07/2022] One paper about drug screening was accepted by *IEEE TKDE*!
 
