@@ -35,6 +35,4 @@ My research interests mainly focus on Knowledge Graph and its application in bio
 
 
 # Professional Services
-* Served as a reviewer for the Journal [Scientific Reports](https://www.nature.com/srep/)
-* Served as a reviewer for the Journal [Bioinformatics](https://academic.oup.com/bioinformatics)
-* Served as a reviewer for the Journal [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
+* Served as reviewers for the Journal [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).
