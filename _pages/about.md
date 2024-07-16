@@ -15,6 +15,8 @@ I am a first-year PhD student in Department of Computer Science, Hunan Universit
 My research interests mainly focus on Knowledge Graph and its application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
+* [04/2024] One paper about medicine recommendation based on causal inference was accepted by *CIKM 2024*! Congratulations to Xiang Li.
+
 * [04/2024] One paper about graph domain adaptation was accepted by *Scientific Reports*! Congratulations to Zhuo Zeng.
 
 * [11/2023] One paper about medicine recommendation was accepted by *Knowledge-Based Systems (KBS)*! Congratulations to Xiang Li.

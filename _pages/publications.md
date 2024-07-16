@@ -18,6 +18,11 @@ $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomed
 
 
 ## Published
+$\text{CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State}$
+<br/> Xiang Li, Shunpan Liang, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *CIKM*, 2024, CCF-B <br/> [[URL]](https://arxiv.org/abs/2404.12228)
+
+
+
 $\text{TO-UGDA: target-oriented unsupervised graph domain adaptation}$
 <br/> Zhuo Zeng, Jianyu Xie, Zhijie Yang, **Tengfei Ma**, Duanbing Chen <br/> *Scientific Reports*, 2024, SCI-2 <br/> [[URL]](https://www.nature.com/articles/s41598-024-59890-y)
 
