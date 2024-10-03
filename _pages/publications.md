@@ -13,11 +13,13 @@ $\text{Dual-Granularity Medication Recommendation Based on Causal Inference}$<br
 Shunpan Liang, Xiang Li, Chen Li, Yu Lei, Yulei Hou, **Tengfei Ma**<br/> 
 *Preprint*, 2024 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2403.00880)
 
-$\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
-**Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *Preprint*, 2023 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2312.06682)
+
 
 
 ## Published
+$\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
+**Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2312.06682)
+
 $\text{CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State}$
 <br/> Xiang Li, Shunpan Liang, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *CIKM*, 2024, CCF-B <br/> [[URL]](https://arxiv.org/abs/2404.12228)
 
