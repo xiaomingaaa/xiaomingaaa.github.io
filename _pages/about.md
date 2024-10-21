@@ -12,7 +12,7 @@ Hello,
 
 I am a PhD in Department of Computer Science, Hunan University. I worked with Professor [Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en) and [Bosheng Song](https://scholar.google.com.hk/citations?user=n2szdRoAAAAJ&hl=zh-CN). Previously I worked as research intern in [Amazon Shanghai AI Lab](), [Huawei Cloud]() and full-time Research Engineer in [Alibaba]().
 
-My research interests mainly focus on Knowledge Graph and its application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
+My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
 * [09/2024] One paper about visual screening is accepted on *TKDE*! .
@@ -40,4 +40,4 @@ My research interests mainly focus on Knowledge Graph and its application in bio
 
 # Professional Services
 * Served as reviewers for the Conference ICLR 2025.
-* Served as reviewers for the Journal [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).
+* Served as reviewers for the Journal [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [Neural Network](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).

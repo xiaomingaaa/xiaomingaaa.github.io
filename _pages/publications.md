@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Preprint
+$\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development}$ <br/>
+**Tengfei Ma**, Xuan Lin, Tianle Li, Chaoyi Li, Long Chen, Peng Zhou, Xibao Cai, Xinyu Yang, Daojian Zeng, Dongsheng Cao, Xiangxiang Zeng <br/> *Preprint*, 2024, Under Review <br/> [[Video]](https://www.youtube.com/watch?v=jO6M5mujsA8) [[URL]](https://arxiv.org/pdf/2410.11550v1)
+
 $\text{KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion}$ <br/>
 **Tengfei Ma**, Xiang Song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Jianxin Lin, Bosheng Song, Xiangxiang Zeng <br/> *Preprint*, 2024 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2404.03893)
 
@@ -14,15 +17,12 @@ Shunpan Liang, Xiang Li, Chen Li, Yu Lei, Yulei Hou, **Tengfei Ma**<br/>
 *Preprint*, 2024 <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2403.00880)
 
 
-
-
 ## Published
 $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
-**Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2312.06682)
+**Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://arxiv.org/abs/2312.06682)
 
 $\text{CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State}$
 <br/> Xiang Li, Shunpan Liang, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *CIKM*, 2024, CCF-B <br/> [[URL]](https://arxiv.org/abs/2404.12228)
-
 
 
 $\text{TO-UGDA: target-oriented unsupervised graph domain adaptation}$
