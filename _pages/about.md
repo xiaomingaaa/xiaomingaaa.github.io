@@ -41,3 +41,10 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 # Professional Services
 * Served as reviewers for the Conference ICLR 2025.
 * Served as reviewers for the Journal [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [Neural Network](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).
+
+# Acknowledgement
+My study cannot be possible without the support from my awesome friends, mentors, and collaborators! Check out some of them:
+* Prof. [Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en), Prof. [Bosheng Song](https://scholar.google.com.hk/citations?user=n2szdRoAAAAJ&hl=zh-CN), Prof. [Jianxin Lin](https://scholar.google.com.hk/citations?user=ztdMYPcAAAAJ&hl=zh-CN)&[Yijun Wang]() at Hunan University
+* Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ&hl=en) at the University of Illinons at Chicago, Prof. [Feixiong Cheng](https://scholar.google.com/citations?user=i83-SfgAAAAJ&hl=en) at Cleveland Clinic. 
+* Prof. [Xuan Lin](https://scholar.google.com/citations?user=8B0t8AYAAAAJ&hl=en) at Xiangtan University, Dr. [Yujie Chen](https://scholar.google.com/citations?user=HM8YayEAAAAJ&hl=en) at Hunan University, and Dr. [Jianmin Wang](https://scholar.google.com/citations?user=4ajuBSkAAAAJ&hl=en) at Yonsei University 
+* Dr. Wen Tao at Adelaide University, Dr. [Xiang Song](https://scholar.google.com/citations?user=LyPpCKwAAAAJ&hl=en) at Amazon, and Dr. [Mufei Li](https://mufeili.github.io/) at Georgia Institute of Technology.
