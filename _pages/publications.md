@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+> \* Co-first Author (Equal Contribution), &#x1F4E7; Corresponding Author
 
 ## Preprint
 $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development}$ <br/>
