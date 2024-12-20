@@ -15,7 +15,10 @@ I am a PhD in Department of Computer Science, Hunan University. I worked with Pr
 My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
-* [09/2024] One paper about visual screening is accepted on *TKDE*! .
+
+* [12/2024] One paper about KG-enhanced inductive KGC is accepted on *AAAI 2025*!
+
+* [09/2024] One paper about KG-enhanced drug discovery is accepted on *TKDE*!
 
 * [06/2024] One paper about medicine recommendation based on causal inference was accepted by *CIKM 2024*! Congratulations to Xiang Li.
 
