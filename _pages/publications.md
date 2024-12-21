@@ -16,7 +16,7 @@ $\text{KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowle
 
 ## Published
 
-$\text{S}^2$$\text{DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion}$ <br/>
+$\text{S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion}$ <br/>
 **Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> *Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/SDN) [[URL]]()
 
 $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
