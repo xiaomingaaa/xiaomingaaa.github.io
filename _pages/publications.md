@@ -17,7 +17,7 @@ $\text{KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowle
 ## Published
 
 $\text{S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion}$ <br/>
-**Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> *Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/SDN) [[URL]]()
+**Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> *Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25, Oral)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/SDN) [[URL]]()
 
 $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
 **Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://arxiv.org/abs/2312.06682)
