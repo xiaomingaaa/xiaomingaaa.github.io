@@ -18,7 +18,9 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 
 # What’s new?
 
-* [12/2024] One paper about KG-enhanced inductive KGC is accepted on *AAAI 2025*!
+* [01/2025] One paper about path-based explainable framework is accepted on *ICLR 2025*!
+
+* [12/2024] One paper about KG-enhanced inductive KGC is accepted on *AAAI 2025 oral*!
 
 * [09/2024] One paper about KG-enhanced drug discovery is accepted on *TKDE*!
 
