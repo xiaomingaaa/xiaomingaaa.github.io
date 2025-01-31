@@ -8,7 +8,7 @@ author_profile: true
 
 ## Preprint
 $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for Drug Development}$ <br/>
-**Tengfei Ma**, Xuan Lin, Tianle Li, Chaoyi Li, Long Chen, Peng Zhou, Xibao Cai, Xinyu Yang, Daojian Zeng, Dongsheng Cao, Xiangxiang Zeng <br/> *Preprint*, 2024, Under Review <br/> [[Video]](https://www.youtube.com/watch?v=jO6M5mujsA8) [[URL]](https://arxiv.org/pdf/2410.11550v1)
+**Tengfei Ma**, Xuan Lin, Tianle Li, Chaoyi Li, Long Chen, Peng Zhou, Xibao Cai, Xinyu Yang, Daojian Zeng, Dongsheng Cao, Xiangxiang Zeng <br/> *Preprint*, 2024 <br/> [[Video]](https://www.youtube.com/watch?v=jO6M5mujsA8) [[URL]](https://arxiv.org/pdf/2410.11550v1)
 
 
 
@@ -16,10 +16,10 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 ## Published
 
 $\text{Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation}$ <br/>
-**Tengfei Ma**, Xiang Song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *ICLR*, 2025, CAAI-A <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2404.03893)
+**Tengfei Ma**, Xiang Song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> **ICLR 2025 (Full, Accepted Rate: 32.08%)**, CAAI-A <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2404.03893)
 
 $\text{S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion}$ <br/>
-**Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> *Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25, Oral)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/SDN) [[URL]]()
+**Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng <br/> **AAAI 2025 (<font color=red>Oral, Accepted Rate: 4.63%</font>)**, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/SDN) [[URL]]()
 
 $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph}$ <br/>
 **Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://arxiv.org/abs/2312.06682)
