@@ -14,6 +14,10 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 
 ## Published
+$\text{ImageDDI: Image-enhanced Molecular Motif Sequence
+Representation for Drug-Drug Interaction Prediction}$ <br/>
+Yuqin He*, **Tengfei Ma***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion**,  <font color=red>**IF: 15.5**</font> <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
+
 
 $\text{Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation}$ <br/>
 **Tengfei Ma**, Xiang Song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> **ICLR 2025 (Full, Accepted Rate: 32.08%)**, CAAI-A <br/> [[Code]]() [[URL]](https://arxiv.org/abs/2404.03893)

@@ -17,6 +17,7 @@ I was supported by the Youth Talents Support Project - Doctoral Student Special 
 My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
+* [07/2025] ImageDDI is accepted on *Information Fusion* (IF: 15.5), Congratulations to Yuqin.
 
 * [01/2025] One paper about path-based explainable framework is accepted on *ICLR 2025*!
 
