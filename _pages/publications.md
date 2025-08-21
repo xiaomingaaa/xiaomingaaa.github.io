@@ -14,9 +14,17 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 
 ## Published
+$\text{From Knowledge to Treatment; Large Language odel AssistedBiomedical Concept Representation for Drug Repurposing}$ <br/>
+Chengrui Xiang*, **Tengfei Ma***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
+
+
+$\text{Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation}$ <br/>
+Lingxuan Xie, **Tengfei Ma**&#x1F4E7;, Yuqin He, Yiping Liu, and Xiangxiang Zeng <br/> *Journal of Chemical Information and Modeling* (JCIM), 2025, SCI 2Top <br/> [[Code]]() [[URL]]()
+
+
 $\text{ImageDDI: Image-enhanced Molecular Motif Sequence
 Representation for Drug-Drug Interaction Prediction}$ <br/>
-Yuqin He*, **Tengfei Ma***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion**,  <font color=red>**IF: 15.5**</font> <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
+Yuqin He*, **Tengfei Ma***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion,  <font color=red> IF: 15.5 </font>** <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
 
 
 $\text{Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation}$ <br/>
@@ -29,14 +37,14 @@ $\text{Learning to Denoise Unreliable Interactions for Link Prediction on Biomed
 **Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-lao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF A <br/> [[Code]](https://github.com/xiaomingaaa/BioKDN) [[URL]](https://arxiv.org/abs/2312.06682)
 
 $\text{CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State}$
-<br/> Xiang Li, Shunpan Liang, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *CIKM*, 2024, CCF-B <br/> [[URL]](https://arxiv.org/abs/2404.12228)
+<br/> Xiang Li, Shunpan Liang&#x1F4E7;, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *CIKM*, 2024, CCF-B <br/> [[URL]](https://arxiv.org/abs/2404.12228)
 
 
 $\text{TO-UGDA: target-oriented unsupervised graph domain adaptation}$
 <br/> Zhuo Zeng, Jianyu Xie, Zhijie Yang, **Tengfei Ma**, Duanbing Chen <br/> *Scientific Reports*, 2024, SCI-2 <br/> [[URL]](https://www.nature.com/articles/s41598-024-59890-y)
 
 $\text{StratMed: Relevance Stratification for Low-resource Medication Recommendation}$
-<br/> Xiang Li, Shunpan Liang, Yulei Hou, **Tengfei Ma&#x1F4E7;** <br/> *Knowledge-Based Systems (KBS)*, 2023, SCI-1 Top <br/> [[Code]](https://github.com/lixiang-222/StratMed) [[URL]](https://arxiv.org/pdf/2308.16781.pdf)
+<br/> Xiang Li, Shunpan Liang, Yulei Hou, **Tengfei Ma** <br/> *Knowledge-Based Systems (KBS)*, 2023, SCI-1 Top <br/> [[Code]](https://github.com/lixiang-222/StratMed) [[URL]](https://arxiv.org/pdf/2308.16781.pdf)
 
 $\text{KG-MTL: Knowledge graph enhanced multi-task learning for molecular interaction}$
 <br/> **Tengfei Ma**, Xuan Lin, Bosheng Song, S Yu Philip, Xiangxiang Zeng <br/> *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2022, CCF A <br/> [[Code]](https://github.com/xzenglab/KG-MTL) [[URL]](https://xiaomingaaa.github.io/files/KG-MTL.pdf)
