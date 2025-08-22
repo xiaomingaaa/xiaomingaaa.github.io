@@ -15,7 +15,7 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 ## Published
 $\text{From Knowledge to Treatment; Large Language odel AssistedBiomedical Concept Representation for Drug Repurposing}$ <br/>
-Chengrui Xiang*, **Tengfei Ma***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
+Chengrui Xiang\*, **Tengfei Ma\***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
 
 
 $\text{Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation}$ <br/>
@@ -23,7 +23,8 @@ Lingxuan Xie, **Tengfei Ma**&#x1F4E7;, Yuqin He, Yiping Liu, and Xiangxiang Zeng
 
 
 $\text{ImageDDI: Image-enhanced Molecular Motif Sequence
-Representation for Drug-Drug Interaction Prediction}$ <br/>
+Representation for Drug-Drug Interaction Prediction}$ 
+<br/>
 Yuqin He*, **Tengfei Ma***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion,  <font color=red> IF: 15.5 </font>** <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
 
 
