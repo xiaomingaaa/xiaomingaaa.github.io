@@ -25,7 +25,7 @@ Lingxuan Xie, **Tengfei Ma**&#x1F4E7;, Yuqin He, Yiping Liu, and Xiangxiang Zeng
 $\text{ImageDDI: Image-enhanced Molecular Motif Sequence
 Representation for Drug-Drug Interaction Prediction}$ 
 <br/>
-Yuqin He*, **Tengfei Ma***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion,  <font color=red> IF: 15.5 </font>** <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
+Yuqin He\*, **Tengfei Ma\***, Chaoyi Li, Pengsen Ma, Hongxin Xiang, Jianmin Wang,Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> **Information Fusion,  <font color=red> IF: 15.5 </font>** <br/> [[Code]]() [[URL]](https://xiaomingaaa.github.io/files/imageddi.pdf)
 
 
 $\text{Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation}$ <br/>
