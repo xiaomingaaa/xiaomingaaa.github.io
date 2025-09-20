@@ -14,6 +14,9 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 
 ## Published
+$\text{Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction}$ <br/>
+**Tengfei M\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]]() [[URL]]()
+
 $\text{From Knowledge to Treatment; Large Language odel AssistedBiomedical Concept Representation for Drug Repurposing}$ <br/>
 Chengrui Xiang\*, **Tengfei Ma\***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
 
