@@ -15,14 +15,14 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 ## Published
 $\text{Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction}$ <br/>
-**Tengfei M\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]]() [[URL]]()
+**Tengfei Ma\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{From Knowledge to Treatment; Large Language odel AssistedBiomedical Concept Representation for Drug Repurposing}$ <br/>
 Chengrui Xiang\*, **Tengfei Ma\***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
 
 
 $\text{Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation}$ <br/>
-Lingxuan Xie, **Tengfei Ma**&#x1F4E7;, Yuqin He, Yiping Liu, and Xiangxiang Zeng <br/> *Journal of Chemical Information and Modeling* (JCIM), 2025, SCI 2Top <br/> [[Code]]() [[URL]]()
+Lingxuan Xie, **Tengfei Ma**&#x1F4E7;, Yuqin He, Yiping Liu, and Xiangxiang Zeng <br/> *Journal of Chemical Information and Modeling* (JCIM), 2025, SCI 2Top <br/> [[Code]](https://github.com/xielingxuan/Predicting-Drug-Drug-Interaction-via-Dual-Drugs-Visual-Representation) [[URL]](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01467)
 
 
 $\text{ImageDDI: Image-enhanced Molecular Motif Sequence

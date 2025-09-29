@@ -53,7 +53,7 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 
 
 # Professional Services
-* Served as reviewers for the Conference ICLR 2025, ACM MM, and NeurIPS 2025.
+* Served as reviewers for the Conference ICLR 2025\2026, AAAI 2026, ACM MM 2025, and NeurIPS 2025.
 * Served as reviewers for the Journal [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [Neural Network](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).
 
 # Acknowledgement
