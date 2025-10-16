@@ -54,9 +54,16 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 * [04/2020] One paper was accepted by *IJCAI* 2020!
 
 
+
+# Invited Talks
+* [10/2025]《面向药物发现的知识理解和推理》, 云南师范大学信息学院
+
+
 # Professional Services
 * Served as reviewers for the Conference ICLR 2025\2026, AAAI 2026, ACM MM 2025, and NeurIPS 2025.
 * Served as reviewers for the Journal [npj Digital Medicine](https://www.nature.com/npjdigitalmed/), [Scientific Reports](https://www.nature.com/srep/), [Bioinformatics](https://academic.oup.com/bioinformatics), [Neural Network](https://bmcbioinformatics.biomedcentral.com/), and [IEEE Transactions on Big Data](https://bmcbioinformatics.biomedcentral.com/).
+
+
 
 # Acknowledgement
 My study cannot be possible without the support from my awesome friends, mentors, and collaborators! Check out some of them:
