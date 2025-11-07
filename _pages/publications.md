@@ -14,9 +14,12 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 
 ## Published
+$\text{Enhanced Protein Network Representation with Explicit Structural Binding for Protein-Protein Interaction Prediction}$ <br/>
+Zhuowen Zhen\*, **Tengfei Ma\***, Yiping Liu, Xiangxiang Zeng <br/> *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, SCI-2 (Top) <br/> [[Code]]() [[URL]]()
+
 $\text{VQH-AM: Vector Quantization-Augmented Heterogeneous Graph Learning for Antibody-Antigen Affinity Maturation Prediction
 }$ <br/>
-Zhuowen Zhe, **Tengfei Ma**&#x1F4E7;, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng <br/> *BIBM*, 2025, Regular Paper, CCF-B <br/> [[Code]]() [[URL]]()
+Zhuowen Zhen, **Tengfei Ma**&#x1F4E7;, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng <br/> *BIBM*, 2025, Regular Paper, CCF-B <br/> [[Code]]() [[URL]]()
 
 $\text{Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction}$ <br/>
 **Tengfei Ma\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]]() [[URL]]()
