@@ -11,21 +11,29 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 **Tengfei Ma**, Xuan Lin, Tianle Li, Chaoyi Li, Long Chen, Peng Zhou, Xibao Cai, Xinyu Yang, Daojian Zeng, Dongsheng Cao, Xiangxiang Zeng <br/> *Preprint*, 2024 <br/> [[Video]](https://www.youtube.com/watch?v=jO6M5mujsA8) [[URL]](https://arxiv.org/pdf/2410.11550v1)
 
 
+$\text{MolBridge: Atom-Level Joint Graph Refinement for Robust Drug-Drug Interaction Event Prediction}$ <br/>
+Xuan Lin, Aocheng Ding, **Tengfei Ma**, Hua Liang, Zhe Quan <br/> *Preprint* <br/> [[Code]](https://anonymous.4open.science/r/MolBridge-6561) [[URL]](https://arxiv.org/pdf/2510.20448)
 
 
 ## Published
+$\text{Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization}$ <br/>
+Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+
+$\text{TRACE: Transformation-Aware Graph Refinement for Reaction Condition Prediction}$ <br/>
+Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+
 $\text{Enhanced Protein Network Representation with Explicit Structural Binding for Protein-Protein Interaction Prediction}$ <br/>
 Zhuowen Zhen\*, **Tengfei Ma\***, Yiping Liu, Xiangxiang Zeng <br/> *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, SCI-2 (Top) <br/> [[Code]]() [[URL]]()
 
 $\text{VQH-AM: Vector Quantization-Augmented Heterogeneous Graph Learning for Antibody-Antigen Affinity Maturation Prediction
 }$ <br/>
-Zhuowen Zhen, **Tengfei Ma**&#x1F4E7;, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng <br/> *BIBM*, 2025, Regular Paper, CCF-B <br/> [[Code]]() [[URL]]()
+Zhuowen Zhen, **Tengfei Ma**&#x1F4E7;, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng <br/> *BIBM*, 2025, Regular Paper, CCF-B <br/> [[Code]](https://github.com/zwzhen-hnu/VQH-AM) [[URL]]()
 
 $\text{Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction}$ <br/>
-**Tengfei Ma\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]]() [[URL]]()
+**Tengfei Ma\***, Kun Chen\*, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng <br/> *NeurIPS*, 2025, CCF-A <br/> [[Code]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119726) [[URL]]()
 
 $\text{From Knowledge to Treatment; Large Language odel AssistedBiomedical Concept Representation for Drug Repurposing}$ <br/>
-Chengrui Xiang\*, **Tengfei Ma\***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]]() [[URL]]()
+Chengrui Xiang\*, **Tengfei Ma\***, Xiangzheng Fu, Yiping Liu, Bosheng Song, Xiangxiang Zeng <br/> *EMNLP Findings*, 2025, CCF-B <br/> [[Code]](https://github.com/xiaomingaaa/LLaDR) [[URL]](https://arxiv.org/abs/2510.12181)
 
 
 $\text{Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation}$ <br/>
