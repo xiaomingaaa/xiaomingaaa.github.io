@@ -12,7 +12,7 @@ $\text{Y-Mol: A Multiscale Biomedical Knowledge-Guided Large Language Model for 
 
 
 $\text{MolBridge: Atom-Level Joint Graph Refinement for Robust Drug-Drug Interaction Event Prediction}$ <br/>
-Xuan Lin, Aocheng Ding, **Tengfei Ma**, Hua Liang, Zhe Quan <br/> *Preprint* <br/> [[Code]](https://anonymous.4open.science/r/MolBridge-6561) [[URL]](https://arxiv.org/pdf/2510.20448)
+Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Preprint* <br/> [[Code]](https://anonymous.4open.science/r/MolBridge-6561) [[URL]](https://arxiv.org/pdf/2510.20448)
 
 
 ## Published
