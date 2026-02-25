@@ -17,6 +17,8 @@ I was supported by the Young Scientists Fund of the National Natural Science Fou
 My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
+* [02/2026] Two papers are accepted in CVPR 2026. Congrates to co-authors!
+
 * [11/2025] Two papers are accepted as AAAI 2026 oral presentation.
 
 * [11/2025] One paper is accepted by IEEE J-BHI.

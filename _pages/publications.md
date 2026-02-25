@@ -16,11 +16,19 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 
 
 ## Published
+$\text{Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis}$ <br/>
+Pei Liu, xiangxiang Zeng, **Tengfei Ma**, Yucheng Xing, Xuanbai Ren, Yiping Liu
+<br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
+
+$\text{SCIEval: Evaluating and Benchmarking the Faithfulness of Scientific Image Generation and Interpretation with Large Multimodal Models}$ <br/>
+Guanghui Ye, Huan Zhao, Zhixue Zhao, **Tengfei Ma**, Kehan Wang, Steffen Eger, Zhihua Jiang
+<br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
+
 $\text{Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization}$ <br/>
-Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{TRACE: Transformation-Aware Graph Refinement for Reaction Condition Prediction}$ <br/>
-Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{Enhanced Protein Network Representation with Explicit Structural Binding for Protein-Protein Interaction Prediction}$ <br/>
 Zhuowen Zhen\*, **Tengfei Ma\***, Yiping Liu, Xiangxiang Zeng <br/> *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, SCI-2 (Top) <br/> [[Code]]() [[URL]]()
