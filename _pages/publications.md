@@ -16,6 +16,11 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 
 
 ## Published
+$\text{Toward Synthesizability-Aware Multi-Step Retrosynthetic Planning}$ <br/>
+Yujie Chen, AJie Lin, **Tengfei Ma**, Shu Wu, Leyi Wei, Yiping Liu, Xiangxiang Zeng
+<br/> **IJCAI 2026**, CCF-B <br/> [[Code]]() [[URL]]()
+
+
 $\text{Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis}$ <br/>
 Pei Liu, xiangxiang Zeng, **Tengfei Ma**, Yucheng Xing, Xuanbai Ren, Yiping Liu
 <br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
