@@ -64,6 +64,11 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 
 
 # Invited Talks
+$\text{Knowledge-enhanced Drug Discovery
+}$ <br/>
+*Invited talk, School of Robotics, Hunan University, April 2026*
+
+
 $\text{Knowledge Understanding and Reasoning for Drug Discovery
 }$ <br/>
 *Invited talk, School of Information Science, Yunnan Normal University, October 2025*
