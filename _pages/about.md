@@ -17,52 +17,54 @@ I was supported by the Young Scientists Fund of the National Natural Science Fou
 My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
-<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 5px; padding: 12px; background-color: #f9f9f9;">
-* [05/2026] Two papers are accepted in KDD 2026 AI4Science track. Congrates to co-authors!
+<div style="max-height: 500px; overflow-y: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
 
-* [05/2026] One paper is accepted in IJCAI 2026. Congrates to co-authors!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> Two papers are accepted in KDD 2026 AI4Science track. Congrates to co-authors!</div>
 
-* [02/2026] Two papers are accepted in CVPR 2026. Congrates to co-authors!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> One paper is accepted in IJCAI 2026. Congrates to co-authors!</div>
 
-* [11/2025] Two papers are accepted as AAAI 2026 oral presentation.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[02/2026]</strong> Two papers are accepted in CVPR 2026. Congrates to co-authors!</div>
 
-* [11/2025] One paper is accepted by IEEE J-BHI.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[11/2025]</strong> Two papers are accepted as AAAI 2026 oral presentation.</div>
 
-* [10/2025] One paper is accepted by BIBM 2025.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[11/2025]</strong> One paper is accepted by IEEE J-BHI.</div>
 
-* [09/2025] One paper is accepted by NeurIPS 2025.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[10/2025]</strong> One paper is accepted by BIBM 2025.</div>
 
-* [08/2025] One co-first author paper is accepted by EMNLP 2025 (Findings). Congrates to Chengrui Xiang!
-  
-* [08/2025] One co-authored paper (with corresponding author) has been accepted by Journal of Chemical Information and Modeling (JCIM). Congrates to Lingxuan Xie!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[09/2025]</strong> One paper is accepted by NeurIPS 2025.</div>
 
-* [07/2025] ImageDDI is accepted on *Information Fusion* (IF: 15.5), Congratulations to Yuqin He.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[08/2025]</strong> One co-first author paper is accepted by EMNLP 2025 (Findings). Congrates to Chengrui Xiang!</div>
 
-* [01/2025] One paper about path-based explainable framework is accepted on *ICLR 2025*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[08/2025]</strong> One co-authored paper (with corresponding author) has been accepted by Journal of Chemical Information and Modeling (JCIM). Congrates to Lingxuan Xie!</div>
 
-* [12/2024] One paper about KG-enhanced inductive KGC is accepted on *AAAI 2025 oral*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[07/2025]</strong> ImageDDI is accepted on <em>Information Fusion</em> (IF: 15.5), Congratulations to Yuqin He.</div>
 
-* [09/2024] One paper about KG-enhanced drug discovery is accepted on *TKDE*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[01/2025]</strong> One paper about path-based explainable framework is accepted on <em>ICLR 2025</em>!</div>
 
-* [06/2024] One paper about medicine recommendation based on causal inference was accepted by *CIKM 2024*! Congratulations to Xiang Li.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[12/2024]</strong> One paper about KG-enhanced inductive KGC is accepted on <em>AAAI 2025 oral</em>!</div>
 
-* [04/2024] One paper about graph domain adaptation was accepted by *Scientific Reports*! Congratulations to Zhuo Zeng.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[09/2024]</strong> One paper about KG-enhanced drug discovery is accepted on <em>TKDE</em>!</div>
 
-* [11/2023] One paper about medicine recommendation was accepted by *Knowledge-Based Systems (KBS)*! Congratulations to Xiang Li.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[06/2024]</strong> One paper about medicine recommendation based on causal inference was accepted by <em>CIKM 2024</em>! Congratulations to Xiang Li.</div>
 
-* [07/2022] One paper about drug screening was accepted by *IEEE TKDE*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[04/2024]</strong> One paper about graph domain adaptation was accepted by <em>Scientific Reports</em>! Congratulations to Zhuo Zeng.</div>
 
-* [06/2022] I worked as a full-time engineer for sponsored recommandation in Alibaba!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[11/2023]</strong> One paper about medicine recommendation was accepted by <em>Knowledge-Based Systems (KBS)</em>! Congratulations to Xiang Li.</div>
 
-* [09/2021] One paper was published on *Bioinformatics*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[07/2022]</strong> One paper about drug screening was accepted by <em>IEEE TKDE</em>!</div>
 
-* [06/2021] I started working as AI Engineer in Huawei Cloud
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[06/2022]</strong> I worked as a full-time engineer for sponsored recommandation in Alibaba!</div>
 
-* [12/2020] I started working as a research intern in Amazon Shanghai AI Lab.
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[09/2021]</strong> One paper was published on <em>Bioinformatics</em>!</div>
 
-* [07/2020] One paper was accepted by *Journal of Proteome Research*!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[06/2021]</strong> I started working as AI Engineer in Huawei Cloud</div>
 
-* [04/2020] One paper was accepted by *IJCAI* 2020!
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[12/2020]</strong> I started working as a research intern in Amazon Shanghai AI Lab.</div>
+
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[07/2020]</strong> One paper was accepted by <em>Journal of Proteome Research</em>!</div>
+
+<div style="padding: 10px 0; line-height: 1.6;"><strong style="color: #d32f2f;">[04/2020]</strong> One paper was accepted by <em>IJCAI</em> 2020!</div>
+
 </div>
 
 
