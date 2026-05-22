@@ -18,9 +18,8 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 ## Published
 
 $\text{Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation}$ <br/>
-Tengfei Ma, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng
+**Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng
 <br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]]() [[URL]]()
-
 
 
 $\text{Toward Synthesizability-Aware Multi-Step Retrosynthetic Planning}$ <br/>
