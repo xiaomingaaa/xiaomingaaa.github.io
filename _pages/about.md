@@ -16,8 +16,8 @@ I was supported by the Young Scientists Fund of the National Natural Science Fou
 
 My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
-<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 5px; padding: 12px; background-color: #f9f9f9;">
 # What’s new?
+<div style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; border-radius: 5px; padding: 12px; background-color: #f9f9f9;">
 * [05/2026] Two papers are accepted in KDD 2026 AI4Science track. Congrates to co-authors!
 
 * [05/2026] One paper is accepted in IJCAI 2026. Congrates to co-authors!
