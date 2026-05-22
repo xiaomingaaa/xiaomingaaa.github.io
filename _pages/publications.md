@@ -21,6 +21,9 @@ $\text{Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combin
 **Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng
 <br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]]() [[URL]]()
 
+$\text{Beyond Reaction Data: Learning Chemical Knowledge from Large-Scale Molecules for Retrosynthesis}$ <br/>
+Yujie Chen, **Tengfei Ma**, Zhou Yu, Jiayi Zhang, Ajie Lin, Shu Wu, Dongsheng Cao, Yiping Liu
+<br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{Toward Synthesizability-Aware Multi-Step Retrosynthetic Planning}$ <br/>
 Yujie Chen, AJie Lin, **Tengfei Ma**, Shu Wu, Leyi Wei, Yiping Liu, Xiangxiang Zeng
