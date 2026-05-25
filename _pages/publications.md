@@ -19,15 +19,15 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 
 $\text{Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation}$ <br/>
 **Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng
-<br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]]() [[URL]]()
+<br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]](https://github.com/xiaomingaaa/LaCo) [[URL]]()
 
 $\text{Beyond Reaction Data: Learning Chemical Knowledge from Large-Scale Molecules for Retrosynthesis}$ <br/>
 Yujie Chen, **Tengfei Ma**, Zhou Yu, Jiayi Zhang, Ajie Lin, Shu Wu, Dongsheng Cao, Yiping Liu
-<br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]]() [[URL]]()
+<br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]](https://github.com/chenyujie1127/KnowRetro) [[URL]]()
 
 $\text{Toward Synthesizability-Aware Multi-Step Retrosynthetic Planning}$ <br/>
 Yujie Chen, AJie Lin, **Tengfei Ma**, Shu Wu, Leyi Wei, Yiping Liu, Xiangxiang Zeng
-<br/> **IJCAI 2026**, CCF-B <br/> [[Code]]() [[URL]]()
+<br/> **IJCAI 2026**, CCF-B <br/> [[Code]](https://github.com/L-AJ/GuideRetro) [[URL]]()
 
 
 $\text{Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis}$ <br/>
@@ -39,10 +39,10 @@ Guanghui Ye, Huan Zhao, Zhixue Zhao, **Tengfei Ma**, Kehan Wang, Steffen Eger, Z
 <br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization}$ <br/>
-Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]](https://github.com/linjiadegou/MAMO) [[URL]](https://ojs.aaai.org/index.php/AAAI/article/view/40757)
 
 $\text{TRACE: Transformation-Aware Graph Refinement for Reaction Condition Prediction}$ <br/>
-Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]]() [[URL]]()
+Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]](https://github.com/chenyujie1127/TRACE) [[URL]](https://ojs.aaai.org/index.php/AAAI/article/view/36971)
 
 $\text{Enhanced Protein Network Representation with Explicit Structural Binding for Protein-Protein Interaction Prediction}$ <br/>
 Zhuowen Zhen\*, **Tengfei Ma\***, Yiping Liu, Xiangxiang Zeng <br/> *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, SCI-2 (Top) <br/> [[Code]]() [[URL]]()
