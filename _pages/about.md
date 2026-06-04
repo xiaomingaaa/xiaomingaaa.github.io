@@ -12,9 +12,9 @@ Hello,
 
 I am a PhD in Department of Computer Science, Hunan University. I worked with Professor [Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en) and [Bosheng Song](https://scholar.google.com.hk/citations?user=n2szdRoAAAAJ&hl=zh-CN). Previously I worked as research intern in [Amazon Shanghai AI Lab](), [Huawei Cloud]() and full-time Research Engineer in [Alibaba]().
 
-I was supported by the Young Scientists Fund of the National Natural Science Foundation of China (国自然青年基金-博士生专项).
+I am supported by the Young Scientists Fund of the National Natural Science Foundation of China (¥300,000) and Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (via CAAI)
 
-My research interests mainly focus on Knowledge Graph, LLM and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
+My research interests mainly focus on Knowledge Graph, LLM, Agent and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
 <div style="max-height: 500px; overflow-y: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
@@ -71,6 +71,11 @@ My research interests mainly focus on Knowledge Graph, LLM and their application
 <div style="height:30px;"></div>
 
 # Invited Talks
+$\text{Knowledge Understanding and Reasoning for Computational Drug Discovery
+}$ <br/>
+*Invited talk, Nanshan Respiratory Health Forum, May 2026*
+
+
 $\text{Knowledge-enhanced Drug Discovery
 }$ <br/>
 *Invited talk, School of Robotics, Hunan University, April 2026*
