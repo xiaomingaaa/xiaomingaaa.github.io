@@ -23,6 +23,8 @@ My research interests mainly focus on Knowledge Graph, LLM, Agent and their appl
 
 <div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> One paper is accepted in IJCAI 2026. Congrates to co-authors!</div>
 
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> One paper is accepted in ACL 2026. Congrates to co-authors!</div>
+
 <div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[02/2026]</strong> Two papers are accepted in CVPR 2026. Congrates to co-authors!</div>
 
 <div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[11/2025]</strong> Two papers are accepted as AAAI 2026 oral presentation.</div>

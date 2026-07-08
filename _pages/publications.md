@@ -29,7 +29,6 @@ $\text{Toward Synthesizability-Aware Multi-Step Retrosynthetic Planning}$ <br/>
 Yujie Chen, AJie Lin, **Tengfei Ma**, Shu Wu, Leyi Wei, Yiping Liu, Xiangxiang Zeng
 <br/> **IJCAI 2026**, CCF-B <br/> [[Code]](https://github.com/L-AJ/GuideRetro) [[URL]]()
 
-
 $\text{Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis}$ <br/>
 Pei Liu, xiangxiang Zeng, **Tengfei Ma**, Yucheng Xing, Xuanbai Ren, Yiping Liu
 <br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
