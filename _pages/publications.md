@@ -17,6 +17,10 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 
 ## Published
 
+$\text{Mitigating Knowledge Conflicts of Retrieval-Augmented Generation through Dual-Stage Confidence Measurement in Semantic Space}$ <br/>
+Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**&#x1F4E7;, Daojian Zeng
+<br/> **COLM 2026** <br/> [[Code]](https://github.com/hnnuzhangjia/CMS-2) [[URL]]()
+
 $\text{Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation}$ <br/>
 **Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng
 <br/> **KDD 2026 (AI4Science)**, CCF-A <br/> [[Code]](https://github.com/xiaomingaaa/LaCo) [[URL]]()

@@ -17,7 +17,11 @@ I am supported by the Young Scientists Fund of the National Natural Science Foun
 My research interests mainly focus on Knowledge Graph, LLM, Agent and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
 # What’s new?
+
+
 <div style="max-height: 500px; overflow-y: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
+
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> One paper is accepted in COLM 2026. Congrates to Jia Zhang!</div>
 
 <div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> Two papers are accepted in KDD 2026 AI4Science track. Congrates to co-authors!</div>
 
