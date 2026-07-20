@@ -18,7 +18,7 @@ Xuan Lin, Aocheng Ding, **Tengfei Ma**&#x1F4E7;, Hua Liang, Zhe Quan <br/> *Prep
 ## Published
 
 $\text{Mitigating Knowledge Conflicts of Retrieval-Augmented Generation through Dual-Stage Confidence Measurement in Semantic Space}$ <br/>
-Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**&#x1F4E7;, Daojian Zeng
+Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**&#x1F4E7;, Daojian Zeng&#x1F4E7;
 <br/> **COLM 2026** <br/> [[Code]](https://github.com/hnnuzhangjia/CMS-2) [[URL]]()
 
 $\text{Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation}$ <br/>
@@ -42,7 +42,7 @@ Guanghui Ye, Huan Zhao, Zhixue Zhao, **Tengfei Ma**, Kehan Wang, Steffen Eger, Z
 <br/> **CVPR 2026**, CCF-A <br/> [[Code]]() [[URL]]()
 
 $\text{Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization}$ <br/>
-Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]](https://github.com/linjiadegou/MAMO) [[URL]](https://ojs.aaai.org/index.php/AAAI/article/view/40757)
+Daojian Zeng, Tianle Li, **Tengfei Ma**&#x1F4E7;, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang&#x1F4E7;, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]](https://github.com/linjiadegou/MAMO) [[URL]](https://ojs.aaai.org/index.php/AAAI/article/view/40757)
 
 $\text{TRACE: Transformation-Aware Graph Refinement for Reaction Condition Prediction}$ <br/>
 Yujie Chen, **Tengfei Ma**, Yuansheng Liu, Leyi Wei, Shu Wu, Dongsheng Cao, Yiping Liu, Xiangxiang Zeng <br/> **AAAI 2026 <font color=red> (Rate: 17.6%, Oral) </font>**, CCF-A <br/> [[Code]](https://github.com/chenyujie1127/TRACE) [[URL]](https://ojs.aaai.org/index.php/AAAI/article/view/36971)
