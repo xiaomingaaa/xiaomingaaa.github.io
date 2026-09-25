@@ -104,7 +104,11 @@ $\text{KGNN: Knowledge Graph Neural Network for Drug-Drug Interaction Prediction
 
 This page highlights my first-author and corresponding-author publications.
 
-> \* Equal contribution
+{% if author.googlescholar %}
+[**Full Publication List**]({{ author.googlescholar }}) on Google Scholar
+{% endif %}
+
+> \* Equal contribution · 📧 Corresponding author
 
 ## Selected First-Author Publications
 
@@ -135,23 +139,23 @@ This page highlights my first-author and corresponding-author publications.
 ## Selected Corresponding-Author Publications
 
 1. **Mitigating Knowledge Conflicts of Retrieval-Augmented Generation through Dual-Stage Confidence Measurement in Semantic Space**  
-   Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**, Daojian Zeng  
+   Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**📧, Daojian Zeng📧  
    *COLM 2026* · **Corresponding author** · [Code](https://github.com/hnnuzhangjia/CMS-2)
 
 2. **Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization**  
-   Daojian Zeng, Tianle Li, **Tengfei Ma**, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang, Xiangxiang Zeng  
+   Daojian Zeng, Tianle Li, **Tengfei Ma**📧, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang📧, Xiangxiang Zeng  
    *AAAI 2026* (Oral; acceptance rate: 17.6%), CCF-A · **Corresponding author** · [Code](https://github.com/linjiadegou/MAMO) · [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/40757)
 
 3. **VQH-AM: Vector Quantization-Augmented Heterogeneous Graph Learning for Antibody-Antigen Affinity Maturation Prediction**  
-   Zhuowen Zhen, **Tengfei Ma**, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng  
+   Zhuowen Zhen, **Tengfei Ma**📧, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng  
    *BIBM 2025*, Regular Paper, CCF-B · **Corresponding author** · [Code](https://github.com/zwzhen-hnu/VQH-AM)
 
 4. **Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation**  
-   Lingxuan Xie, **Tengfei Ma**, Yuqin He, Yiping Liu, Xiangxiang Zeng  
+   Lingxuan Xie, **Tengfei Ma**📧, Yuqin He, Yiping Liu, Xiangxiang Zeng  
    *Journal of Chemical Information and Modeling (JCIM)*, 2025, SCI-2 (Top) · **Corresponding author** · [Code](https://github.com/xielingxuan/Predicting-Drug-Drug-Interaction-via-Dual-Drugs-Visual-Representation) · [Paper](https://pubs.acs.org/doi/10.1021/acs.jcim.5c01467)
 
 5. **CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State**  
-   Xiang Li, Shunpan Liang, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma**  
+   Xiang Li, Shunpan Liang📧, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma**📧  
    *CIKM 2024*, CCF-B · **Corresponding author** · [Paper](https://arxiv.org/abs/2404.12228)
 
 
