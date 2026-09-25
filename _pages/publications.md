@@ -113,8 +113,8 @@ This page highlights my first-author and corresponding-author publications.
 ## Selected First-Author Publications
 
 1. **SafeDrug: A Benchmark Dataset for Safety-Critical Pharmacological Reasoning in LLMs**  
-   **Tengfei Ma**, Yushan Yang, HOU Jiahao, Yujie Chen, Guanghui Ye, Xuanbai Ren, Yiping Liu, Bosheng Song, Xiangxiang Zeng 
-   *NeurIPS 2026 (ED track)*, CCF-A · [Code]()
+   **Tengfei Ma**, Yushan Yang, HOU Jiahao, Yujie Chen, Guanghui Ye, Xuanbai Ren, Yiping Liu, Bosheng Song, Xiangxiang Zeng
+   *NeurIPS 2026 (ED track)*, CCF-A · [Project Page](https://loop113.github.io/safedrug-benchmark/)
 
 2. **Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation**  
    **Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng  
