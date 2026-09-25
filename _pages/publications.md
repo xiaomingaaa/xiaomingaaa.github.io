@@ -108,31 +108,35 @@ This page highlights my first-author and corresponding-author publications.
 [**Full Publication List**]({{ author.googlescholar }}) on Google Scholar
 {% endif %}
 
-> \* Equal contribution · 📧 Corresponding author
+> 📧 Corresponding author
 
 ## Selected First-Author Publications
 
-1. **Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation**  
+1. **SafeDrug: A Benchmark Dataset for Safety-Critical Pharmacological Reasoning in LLMs**  
+   **Tengfei Ma**, Yushan Yang, HOU Jiahao, Yujie Chen, Guanghui Ye, Xuanbai Ren, Yiping Liu, Bosheng Song, Xiangxiang Zeng 
+   *NeurIPS 2026 (ED track)*, CCF-A · [Code]()
+
+2. **Expanding Knowledge Boundaries via LLM-Grounded Alignment for Drug Combination Recommendation**  
    **Tengfei Ma**, Yuqin He, Zhonghao Ren, Bosheng Song, Qian Li, Xiangxiang Zeng  
-   *KDD 2026 (AI4Science)*, CCF-A · [Code](https://github.com/xiaomingaaa/LaCo)
+   *KDD 2026 (AI4Science)*, CCF-A · [Code](https://github.com/xiaomingaaa/LaCo) · [Paper](https://dl.acm.org/doi/10.1145/3770855.3818967)
 
-2. **Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction**  
+3. **Self-supervised Blending Structural Context of Visual Molecules for Robust Drug Interaction Prediction**  
    **Tengfei Ma**, Kun Chen, Yongsheng Zang, Yujie Chen, Xuanbai Ren, Bosheng Song, Hongxin Xiang, Yiping Liu, Xiangxiang Zeng  
-   *NeurIPS 2025*, CCF-A · [Code](https://neurips.cc/virtual/2025/loc/san-diego/poster/119726)
+   *NeurIPS 2025*, CCF-A · [Code](https://github.com/xiaomingaaa/S2VM) · [Paper](https://neurips.cc/virtual/2025/loc/san-diego/poster/119726)
 
-3. **Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation**  
+4. **Towards Synergistic Path-based Explanations for Knowledge Graph Completion: Exploration and Evaluation**  
    **Tengfei Ma**, Xiang Song, Wen Tao, Mufei Li, Jiani Zhang, Xiaoqin Pan, Yijun Wang, Bosheng Song, Xiangxiang Zeng  
-   *ICLR 2025* (Full; acceptance rate: 32.08%), CAAI-A · [Paper](https://arxiv.org/abs/2404.03893)
+   *ICLR 2025* (Full; acceptance rate: 32.08%), CAAI-A · [Code](https://github.com/xiaomingaaa/KGExplainer) · [Paper](https://openreview.net/forum?id=WQvkqarwXi)
 
-4. **S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**  
+5. **S2DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**  
    **Tengfei Ma**, Yujie Chen, Liang Wang, Xuan Lin, Bosheng Song, Xiangxiang Zeng  
-   *AAAI 2025* (Oral; acceptance rate: 4.63%), CCF-A · [Code](https://github.com/xiaomingaaa/SDN)
+   *AAAI 2025* (Oral; acceptance rate: 4.63%), CCF-A · [Code](https://github.com/xiaomingaaa/SDN) · [Paper](https://dl.acm.org/doi/10.1609/aaai.v39i12.33346)
 
-5. **Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**  
+6. **Learning to Denoise Unreliable Interactions for Link Prediction on Biomedical Knowledge Graph**  
    **Tengfei Ma**, Yujie Chen, Wen Tao, Dashun Zheng, Xuan Lin, Patrick Cheong-Iao Pang, Yiping Liu, Yijun Wang, Bosheng Song, Xiangxiang Zeng  
    *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2024, CCF-A · [Code](https://github.com/xiaomingaaa/BioKDN) · [Paper](https://arxiv.org/abs/2312.06682)
 
-6. **KG-MTL: Knowledge Graph Enhanced Multi-task Learning for Molecular Interaction**  
+7. **KG-MTL: Knowledge Graph Enhanced Multi-task Learning for Molecular Interaction**  
    **Tengfei Ma**, Xuan Lin, Bosheng Song, Philip S. Yu, Xiangxiang Zeng  
    *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2022, CCF-A · [Code](https://github.com/xzenglab/KG-MTL) · [Paper](https://xiaomingaaa.github.io/files/KG-MTL.pdf)
 
@@ -140,7 +144,7 @@ This page highlights my first-author and corresponding-author publications.
 
 1. **Mitigating Knowledge Conflicts of Retrieval-Augmented Generation through Dual-Stage Confidence Measurement in Semantic Space**  
    Jia Zhang, Zhiheng Zhang, Zeao Ji, **Tengfei Ma**📧, Daojian Zeng📧  
-   *COLM 2026* · **Corresponding author** · [Code](https://github.com/hnnuzhangjia/CMS-2)
+   *COLM 2026* · **Corresponding author** · [Code](https://github.com/hnnuzhangjia/CMS-2) · [Paper](https://openreview.net/pdf?id=5o9JbvsF1x)
 
 2. **Expert-Inspired Multi-Agent Coordination for Multi-Objective Molecular Optimization**  
    Daojian Zeng, Tianle Li, **Tengfei Ma**📧, Jiahao Yang, Jiacai Yi, Xieping Gao, Lincheng Jiang📧, Xiangxiang Zeng  
@@ -148,7 +152,7 @@ This page highlights my first-author and corresponding-author publications.
 
 3. **VQH-AM: Vector Quantization-Augmented Heterogeneous Graph Learning for Antibody-Antigen Affinity Maturation Prediction**  
    Zhuowen Zhen, **Tengfei Ma**📧, Jiaxuan Li, Dashun Zheng, Patrick Cheong-Iao Pang, Yiping Liu, Xiangxiang Zeng  
-   *BIBM 2025*, Regular Paper, CCF-B · **Corresponding author** · [Code](https://github.com/zwzhen-hnu/VQH-AM)
+   *BIBM 2025*, Regular Paper, CCF-B · **Corresponding author** · [Code](https://github.com/zwzhen-hnu/VQH-AM) · [Paper](https://ieeexplore.ieee.org/document/11356250/)
 
 4. **Predicting Drug-Drug Interaction via Dual-Drugs Visual Representation**  
    Lingxuan Xie, **Tengfei Ma**📧, Yuqin He, Yiping Liu, Xiangxiang Zeng  
@@ -156,7 +160,7 @@ This page highlights my first-author and corresponding-author publications.
 
 5. **CausalMed: Causality-Based Personalized Medication Recommendation Centered on Patient Health State**  
    Xiang Li, Shunpan Liang📧, Yu Lei, Chen Li, Yulei Hou, **Tengfei Ma**📧  
-   *CIKM 2024*, CCF-B · **Corresponding author** · [Paper](https://arxiv.org/abs/2404.12228)
+   *CIKM 2024*, CCF-B · **Corresponding author** · [Code](https://github.com/lixiang-222/CausalMed) · [Paper](https://dl.acm.org/doi/10.1145/3627673.3679542)
 
 
 <!-- {% if author.googlescholar %}

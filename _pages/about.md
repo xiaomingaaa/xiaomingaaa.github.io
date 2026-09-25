@@ -10,9 +10,9 @@ redirect_from:
 
 Hello,
 
-I am a PhD in Department of Computer Science, Hunan University. I worked with Professor [Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en) and [Bosheng Song](https://scholar.google.com.hk/citations?user=n2szdRoAAAAJ&hl=zh-CN). Previously I worked as research intern in [Amazon Shanghai AI Lab](), [Huawei Cloud]() and full-time Research Engineer in [Alibaba]().
+I am a Ph.D. candidate in the Department of Computer Science at Hunan University, where I work with Professors [Xiangxiang Zeng](https://scholar.google.com/citations?user=B20HBMIAAAAJ&hl=en) and [Bosheng Song](https://scholar.google.com.hk/citations?user=n2szdRoAAAAJ&hl=zh-CN). I received my M.S. degree from Hunan University and my bachelor’s degree from Zhengzhou University. My industry experience includes research internships at Amazon Shanghai AI Lab and Huawei Cloud, as well as a full-time Research Engineer position at Alibaba.
 
-I am supported by the Young Scientists Fund of the National Natural Science Foundation of China (¥300,000) and Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (via CAAI)
+I am supported by the Young Scientists Fund of the National Natural Science Foundation of China and Young Elite Scientists Sponsorship Program by CAST - Doctoral Student Special Plan (via CAAI)
 
 My research interests mainly focus on Knowledge Graph, LLM, Agent and their application in biological problems. Currently I’m working on drug discovery and molecule edit/generation with model Transparency.
 
