@@ -21,7 +21,7 @@ My research interests mainly focus on Knowledge Graph, LLM, Agent and their appl
 
 <div style="max-height: 500px; overflow-y: auto; border: 2px solid #e0e0e0; border-radius: 8px; padding: 15px; background-color: #fafafa;">
 
-<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[09/2026]</strong> One paper is accepted in NeurIPS 2027 (ED track).</div>
+<div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[09/2026]</strong> One paper is accepted in NeurIPS 2026 (ED track).</div>
 
 <div style="padding: 10px 0; border-bottom: 1px solid #efefef; line-height: 1.6;"><strong style="color: #d32f2f;">[05/2026]</strong> One paper is accepted in COLM 2026. Congrates to Jia Zhang!</div>
 
